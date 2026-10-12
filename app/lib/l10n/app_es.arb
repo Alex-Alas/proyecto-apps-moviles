@@ -1,0 +1,23 @@
+{
+  "@@locale": "es",
+  "appTitle": "Hamtimer",
+  "navTasks": "Tareas",
+  "navPomodoro": "Pomodoro",
+  "navNewTask": "Nueva",
+  "tasksTitle": "Mis actividades",
+  "tasksSubtitle": "Tu plan de enfoque, ordenado por vencimiento",
+  "dailyProgress": "Avance del día",
+  "filterAll": "Todas",
+  "filterToday": "Hoy",
+  "filterCompleted": "Completadas",
+  "formTitle": "Nueva actividad",
+  "formFocusObjective": "Objetivo de enfoque",
+  "formCategory": "Categoría",
+  "formEstimatedDuration": "Duración estimada",
+  "formPriority": "Nivel de prioridad",
+  "formSchedule": "Horario",
+  "formSubmit": "Crear actividad",
+  "pomodoroSessionTasks": "Tareas de la sesión",
+  "pomodoroAddTask": "Agregar tarea",
+  "comingSoon": "Próximamente"
+}
