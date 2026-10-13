@@ -1,0 +1,9 @@
+# Configuración de internacionalización (gen-l10n).
+#
+# PREPARADO, AÚN NO ACTIVO: por simplicidad, la UI de esta entrega tiene los
+# textos en español escritos directamente en los widgets. Para activar la
+# traducción, seguir los pasos de "Internacionalización" en el README.
+arb-dir: lib/l10n
+template-arb-file: app_es.arb
+output-localization-file: app_localizations.dart
+output-class: AppLocalizations
